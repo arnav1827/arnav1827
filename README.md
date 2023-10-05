@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Mittal</h1>
-[![MasterHead](https://img.freepik.com/free-photo/chance-dream-strong-life-live-love-positivity_53876-124724.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696464000&semt=ais)](https://github.com/arnav1827)
-<img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/02/DjangoFeaturedImage.jpeg" alt="..." style="position:fixed; width:auto height:auto">
+<img src="https://www.canva.com/design/DAFwZmpHqzU/1ahhwM_7noz3Ca9_hKwtlQ/edit?utm_content=DAFwZmpHqzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="..." style="position:fixed; width:auto height:auto">
 - 🌱 I’m currently learning **Django Framework, DSA**
 
 - 💬 Ask me about **Web Development**
