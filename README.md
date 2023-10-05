@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Mittal</h1>
 <img src="C:\Users\avive\Downloads\Inspirational Quote LinkedIn Banner.png" alt="..." style="position: relative width:auto height:auto;">
+<hr/>
 - 🌱 I’m currently learning **Django Framework, DSA**
 
 - 💬 Ask me about **Web Development**
