@@ -16,10 +16,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1827&show_icons=true&locale=en&layout=compact" alt="arnav1827" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1827&show_icons=true&locale=en" alt="arnav1827" /></p>
-- 👋 Hi, I’m Arnav Mittal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django Frame-Work, DSA
-- 📫 How to reach me 2711arnav@gmail.com
+<br>
+- 👋 Hi, I’m Arnav Mittal <br>
+- 👀 I’m interested in Web Development <br>
+- 🌱 I’m currently learning Django Frame-Work, DSA <br>
+- 📫 How to reach me 2711arnav@gmail.com <br>
 
 <!---
 arnav1827/arnav1827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
