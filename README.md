@@ -3,7 +3,7 @@
 <hr/>
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
