@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnav Mittal</h1>
 <img src="C:\Users\avive\Downloads\Inspirational Quote LinkedIn Banner.png" alt="..." style="position: relative width:auto height:auto;">
 <hr/>
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 👋 Hi, I’m Arnav Mittal <br>
+- 🌱 I’m currently learning **Data Science, Machine Learning** <br>
+- 👀 Ask me about **Web Framework** <br>
+- 📫 How to reach me 2711arnav@gmail.com <br>
 
-- 💬 Ask me about **Web Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,10 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1827&show_icons=true&locale=en" alt="arnav1827" /></p>
 <br>
-- 👋 Hi, I’m Arnav Mittal <br>
-- 👀 I’m interested in Web Development <br>
-- 🌱 I’m currently learning Django Frame-Work, DSA <br>
-- 📫 How to reach me 2711arnav@gmail.com <br>
 
 <!---
 arnav1827/arnav1827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
