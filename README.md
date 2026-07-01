@@ -74,7 +74,6 @@ Hey! I'm **Arnav Mittal**, an AI/ML Engineer from **Delhi, India 🇮🇳** pass
 ![GitHub](https://img.shields.io/badge/GitHub-0d1530?style=for-the-badge&logo=github&logoColor=38bdf8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1530?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1530?style=for-the-badge&logo=jupyter&logoColor=f59e0b)
-![Linux](https://img.shields.io/badge/Linux-0d1530?style=for-the-badge&logo=linux&logoColor=f472b6)
 
 </div>
 
