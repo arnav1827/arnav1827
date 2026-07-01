@@ -98,7 +98,7 @@ Hey! I'm **Arnav Mittal**, an AI/ML Engineer from **Delhi, India 🇮🇳** pass
 
 [![Email](https://img.shields.io/badge/Gmail-2711arnav%40gmail.com-0d1530?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:2711arnav@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arnav1827-0d1530?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/arnav1827)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav_Mittal-0d1530?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/arnav-mittal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav_Mittal-0d1530?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/arnavmittal2711/)
 
 <br/>
 
